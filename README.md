@@ -1,2 +1,5 @@
 # SpaceWar Game
-The problem with this code is that it is Monolithic, but I intend on leaving it that way because that was my first coding project ever.
+That was my first project in my first semester in University (the course is introduction to programming)
+I have gained some experience working with object-oriented programming because the game heavily depends on it.
+However, the main problem with this code is that it is Monolithic. A better way would be to apply seperation of concerns
+and simple responsibility principles to make the code ready to change, easier to read, and safe from bugs.  
